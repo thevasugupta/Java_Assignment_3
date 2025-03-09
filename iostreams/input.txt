@@ -1,1 +1,0 @@
-Hi, We are reading contents from this file for a Java program.
