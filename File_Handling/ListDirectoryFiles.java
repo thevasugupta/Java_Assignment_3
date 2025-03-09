@@ -4,7 +4,7 @@ import java.io.File;
 
 public class ListDirectoryFiles {
     public static void main(String[] args) {
-        File directory = new File("C:\\Users\\theva\\IdeaProjects\\Java Assigment 3");  
+        File directory = new File("C:\\Users\\theva\\IdeaProjects\\Java Assigment 3");
         if (directory.isDirectory()) {
             String[] files = directory.list();
             if (files != null) {
